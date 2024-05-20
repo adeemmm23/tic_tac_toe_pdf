@@ -34,3 +34,7 @@ Originally, i was going to make the game with VBA only but it was slow and memor
 Since, i had to do it in recursive way, and PowerPoint keep crushing, so i moved to python.
 
 Also, in vba i was going to make only the main but [VBA's sub can't handle large codes](https://stackoverflow.com/questions/3751263/procedure-too-large).
+
+## Note
+
+I really hate VBA, and also i can't wrap my head arround pythonic's codes.
