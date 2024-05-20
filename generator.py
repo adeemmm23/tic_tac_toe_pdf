@@ -90,7 +90,7 @@ def main():
 
 
 if __name__ == "__main__":
-    # when i wrote this code only god and i knew what i was doing
+    # when i wrote this code only god and i knew what it was doing
     # now only god knows
     # i love adding this to python scripts lol
     main()
